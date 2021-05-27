@@ -1,6 +1,6 @@
-# Roman2Latin
+# Roman2Integer
 
-Roman2Latin is a simple app for roman numbers to latin or vice versa.
+Roman2Integer is a simple app for roman numbers to latin or vice versa.
 
 ## Installation
 
