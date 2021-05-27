@@ -1,6 +1,6 @@
 # Roman2Integer
 
-Roman2Integer is a simple app for roman numbers to integer or vice versa.
+Roman2Integer is a simple app for roman digits to integer or vice versa.
 
 ## Installation
 
